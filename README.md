@@ -1,4 +1,4 @@
-# NVIDIA Linux Open GPU Kernel Module Source
+# Open GP Kernel Module Source for Linux: (Based on pending pull requests to NVidia)
 
 This is the source release of the NVIDIA Linux open GPU kernel modules,
 version 515.43.04.
